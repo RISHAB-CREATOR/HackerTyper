@@ -5,15 +5,20 @@ Welcome to HackerTyper, the ultimate tool for pranking your friends with fake ha
 ## Features ✨
 
 ✅ **Realistic Typing Animation:** Simulate typing with authentic-looking keystrokes and cursor movements.
+
 ✅ **Code Snippets:** Display random code snippets or custom text to enhance the illusion of hacking.
+
 ✅ **Terminal Effects:** Create a dynamic terminal environment with flashing prompts and scrolling text.
+
 ✅ **Customization Options:** Customize the appearance and behavior of the hacker typing experience.
+
 ✅ **Prank Your Friends:** Use HackerTyper to prank friends, coworkers, or anyone else with your "hacking" prowess.
+
 ✅ **Easy to Use:** Simply open HackerTyper in your web browser and start typing to unleash your inner hacker.
 
 ## How to Use 🎮
 
-1. Open HackerTyper in your web browser.
+1. Open [HackerTyper](https://rishab-creator.github.io/HackerTyper) in your web browser.
 2. Start typing on your keyboard to simulate hacker-like typing.
 3. Watch as code snippets and terminal effects appear on the screen in a convincing manner.
 4. Optionally, customize the text and settings to suit your preferences or specific prank scenarios.
